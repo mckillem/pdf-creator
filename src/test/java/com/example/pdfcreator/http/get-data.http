@@ -1,4 +1,4 @@
-POST http://localhost:8080/api/v1/csfd
+POST http://localhost:8080/api/v1/csfd/getpdf
 Content-Type: application/json 
 
 {
